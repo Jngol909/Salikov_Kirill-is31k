@@ -85,3 +85,8 @@
 3. Удобство использования:
    - Интерфейс мобильного приложения должен быть интуитивно понятным и простым в использовании.
    - Навигация по приложению должна быть логичной и структурированной.
+
+### UML
+![hPFD2jf058NtFiMGLN-grAqhtwCK2TKM8LemSLKA-IbseIXT5KeNVOI9JJ3KEBx2kMzKxcYQYM6aqheOa7npxpc7CqC_S1V1SkPrtdYkxmjyXSGlI1p4Xuwu_fxZ18KIEOKZ72e0SY2cyy2WCaYA8M-OiHjCQeWYA8eOm_u6n1SSQOiCwjNhneKCEOuycpR6bITFZTMAOXQ84ufxs1cgsgS](https://github.com/user-attachments/assets/5787a024-90f6-474f-b7de-d23494ef3bae)
+![bLDDJW8n5Dxt52_iMGY2i2Fn31vW0YEI82GpPMLCO4nqGoGnhbpu4oymGP098_KANs_aAzM8jMFYB9hs-_bU-zffnJA8vEYqB_hXiIGvfAZNFP7KwKLXM_Q60q4KjEKm8jmXHuObDZhv1X-nr1ETGEanKcnsrFf2Z_MKwR5WrAG5Wsu_f18UM9jncCAhYJEXX1kisJ7XfI9aj8symXffYSu](https://github.com/user-attachments/assets/618c85da-7342-4b67-81b1-812a3d54f5a4)
+![bL9DIiD06Dtd5BEqO2_GHUbDfAYBW8QYutuQmLNHfI0kF4BGX0PZuXNUToDVHYSECp7IG8O9x-UzxoEhQxs-qZUN5udYi-4zFKqtwqmhFA51ZGgjv37uR87x67X4WNU--nXwGILRoT698Q4TIPHRCR8ZpIGMzJlCbqkNkb3u54EVBJvuvhnNF7Sd_BI4evcLE_wSMj-grwFxheaYL8uc3sC](https://github.com/user-attachments/assets/db5dde97-1f41-4fd7-a832-d52faf0cc266)
